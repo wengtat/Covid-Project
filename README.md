@@ -11,3 +11,6 @@ CovidProject_script.txt
 
 Tableau CovidProject SQL Queries
 * Queries used for Tableau Covid Project
+
+Link to Tableau Public to view dashboard
+https://public.tableau.com/app/profile/wengtat
