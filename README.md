@@ -7,6 +7,7 @@ Datasets used in csv file
 
 
 CovidProject_script.txt
-*Perform queries to find the output
+*
 
 Tableau CovidProject SQL Queries
+* Queries used for Tableau Covid Project
